@@ -1,0 +1,2 @@
+Pipeline(steps=[('standardscaler', StandardScaler()),
+                ('svc', SVC(C=2.512, gamma=0.00185))])
